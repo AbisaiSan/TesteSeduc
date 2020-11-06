@@ -1,0 +1,3 @@
+D:\OneDrive\Trabalho\Seduc\Projetos\Teste.Seduc\Teste.Seduc\Teste.Seduc\obj\Debug\Teste.Seduc.vbprojAssemblyReference.cache
+D:\OneDrive\Trabalho\Seduc\Projetos\Teste.Seduc\Teste.Seduc\Teste.Seduc\obj\Debug\Teste.Seduc.Resources.resources
+D:\OneDrive\Trabalho\Seduc\Projetos\Teste.Seduc\Teste.Seduc\Teste.Seduc\obj\Debug\Teste.Seduc.vbproj.GenerateResource.cache

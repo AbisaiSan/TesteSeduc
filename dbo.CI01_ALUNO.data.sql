@@ -1,0 +1,1 @@
+﻿select *  from CI01_ALUNO where CI01_ID_ALUNO = 3
